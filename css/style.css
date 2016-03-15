@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding:0
+}
+
+body {
+    background: antiquewhite;
+}
+
+.wll-container > header{
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+.wll-container > header h1{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 35px;
+    position: relative;
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #FF5F6D;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+    padding: 0px 0px 5px 0px;
+}
+
+.wll-container > header h1{
+    text-shadow: 1px 1px 1px rgba(255,255,255,0.4);
+}
+
+.wr-container{
+    width: 100%;
+    position: relative;
+}
+
+#header_main {
+    margin-top: 15%;
+}
